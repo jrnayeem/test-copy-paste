@@ -26,7 +26,6 @@
                     src: "/_next/static/media/link.bbbb20a9.png",
                     height: 94,
                     width: 94,
-                    blurDataURL: "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAMAAADz0U65AAAAM1BMVEWRANKTANK2rMapRNdMaXGQANGTANKLANCSANLAht6cGdWPANGuVtekKtm6cN6VA9OtRtt6rv//AAAADXRSTlP7Nv73AKbAJe3+8bj+QZKzpQAAAAlwSFlzAAALEwAACxMBAJqcGAAAADpJREFUCJkFwQECACEEAMHtIlTo/6+9GWQsOCYMmlfbWE3GLAXyfpEOL76bOKdmJK3YrqTdEFN3NfkBPuYB15P//P4AAAAASUVORK5CYII=",
                     blurWidth: 8,
                     blurHeight: 8
                 },
