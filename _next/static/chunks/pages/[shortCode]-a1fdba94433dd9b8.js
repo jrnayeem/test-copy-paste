@@ -71,7 +71,7 @@
                                 children: [(0, c.jsx)(s(), {
                                     className: "link-img",
                                     src: d,
-                                    alt: "link image"
+                                    alt: ""
                                 }), " ", l]
                             })]
                         })]
