@@ -23,7 +23,7 @@
                 s = n.n(a),
                 A = n(7294),
                 d = {
-                    src: "/_next/static/media/link.bbbb20a9.png",
+                    src: "",
                     height: 94,
                     width: 94,
                     blurWidth: 8,
