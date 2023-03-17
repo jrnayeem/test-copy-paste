@@ -23,11 +23,7 @@
                 s = n.n(a),
                 A = n(7294),
                 d = {
-                    src: "",
-                    height: 94,
-                    width: 94,
-                    blurWidth: 8,
-                    blurHeight: 8
+                 
                 },
                 l = !0;
 
